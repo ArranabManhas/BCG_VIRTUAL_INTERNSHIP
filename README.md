@@ -9,4 +9,5 @@ Main goal is to classify and further predict the churn rate of current customers
 Main goal is the generate a Random Forest Classifier Model to predict the future churn rate provided the features they are correlated to
 
 **PROJECT LINK:** [BCG DATA SCIENCE](https://www.theforage.com/dashboard?show-reenrol-modal=1&virtual-internship-id=NjynCWzGSaWXQCxSX)
+
 **COMPLETION CERTIFICATE LINK:** [CERTIFICATE](https://pdf.ac/wYYkw)
